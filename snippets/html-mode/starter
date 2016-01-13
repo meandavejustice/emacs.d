@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: starter
+# key: starter
+# --
+<!DOCTYPE html>
+<html>
+    <head>
+        $0
+    </head>
+    <body>
+        $1
+    </body>
+</html>

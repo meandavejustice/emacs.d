@@ -1,0 +1,11 @@
+ac-comphist.dat
+projectile-bookmarks.eld
+recentf
+elpa
+auto-save-list
+
+# Compiled
+*.elc
+
+# Packaging
+.cask
